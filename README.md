@@ -1,11 +1,10 @@
 # Car Pricing Dashboard for Used Car Retailers: 
-This repository shows my first attempt at creating a dashboard using Excel. 
 
-# Objective:
+## Objective:
 The purpose of this dashboard is to visualize how the selling price of a car is influenced by different factors and help Used Car Marketplaces to accordingly price their cars. 
 The trends are identified and some insights gained are provided below.
 
-# The Data:
+## The Data:
 The Car Sales Dataset contains approximately 8000 data points with details about:   
 1. Name
 2. Brand   
@@ -20,12 +19,12 @@ The Car Sales Dataset contains approximately 8000 data points with details about
 11. Max power
 12. Torque
 
-# The Dashboard
+## The Dashboard
 ![image](https://github.com/user-attachments/assets/d1eb1874-4008-425f-982d-c51eab03742b)
 
 The dashboard shows the dependency of selling price on year, Brand, Seller type, Fuel type e.t.c. Other metrics such as No. of owners, Seats e.t.c has shown a comparably ingnorable dependency. Filters are provided whereever required for comfortable viewing and analysis.
 
-# The Insights:
+## The Insights:
 1. ### Year:
    The selling price has increased through the years. Year 2019 saw a high increase of 
    prices. A similar dip is noticed in 2020. Hence, cars bought in 2019 may have a higher 
