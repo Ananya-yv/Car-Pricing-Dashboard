@@ -1,4 +1,7 @@
-# Car-Sales-Dashboard
-This repository shows my first attempt at creating a dashboard using Excel.
+# Car-Pricing-Dashboard
+This repository shows my first attempt at creating a dashboard using Excel. 
 
-The project involves developing a dashboard visualizing how the selling price is influenced by factors such as year, fuel type, transmission type e.t.c. 
+# Objective:
+The purpose of this dashboard is to visualize how the selling price of a car is influenced by factors such as year, Brand, Seller type, Fuel type e.t.c. 
+The trends are identified and some insights gained are provided below.
+
