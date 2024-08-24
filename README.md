@@ -23,7 +23,7 @@ The Car Sales Dataset contains approximately 8000 data points with details about
 # The Dashboard
 ![image](https://github.com/user-attachments/assets/d1eb1874-4008-425f-982d-c51eab03742b)
 
-The dashboard shows the dependency of selling price on year, Brand, Seller type, Fuel type e.t.c. Other metrics such as No. of owners, Seats e.t.c has shown a comparably ingnorable dependency.
+The dashboard shows the dependency of selling price on year, Brand, Seller type, Fuel type e.t.c. Other metrics such as No. of owners, Seats e.t.c has shown a comparably ingnorable dependency. Filters are provided whereever required for comfortable viewing and analysis.
 
 # The Insights:
 1. ### Year:
