@@ -38,10 +38,10 @@ The dashboard shows the dependency of selling price on year, Brand, Seller type,
 3. ### Transmission:
    Autumatic Transmission cars are costlier than mannual ones.
 4. ### Fuel:
-   . Diesel cars have the highest prices.
-   . Diesel cars bought in 2019 are costlier than those bought in other years.
-   . Petrol cars are costlier compared to CNG and LPG ones.
-5. ### Engine CC:
+   . Diesel cars have the highest prices.<br>  
+   . Diesel cars bought in 2019 are costlier than those bought in other years.<br>
+   . Petrol cars are costlier compared to CNG and LPG ones.<br>
+6. ### Engine CC:
    The price for cars with engines of 500 - 1500cc doesnt vary considerably. The selling price tends to increase as the engine size exceeds 1500cc.
 <br>
 <br>
@@ -50,7 +50,6 @@ The dashboard shows the dependency of selling price on year, Brand, Seller type,
 <br>
 Made by:<br>   
 Venkata Ananya Yerrapragada.<br>   
-3rd year B.tech<br>
-[Linked in](https://www.linkedin.com/in/venkata-ananya-yerrapragada-29299b2b8/)
+3rd year B.tech<br>Linked in: www.linkedin.com/in/venkata-ananya-yerrapragada-29299b2b8/
    
    
